@@ -88,4 +88,5 @@ while (condition) {
         console.log("* Your Remaining Balance:", yourBalance);
     }
     console.log(chalk.italic.blueBright("\n*****THANK YOU*****"));
+    break;
 }

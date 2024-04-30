@@ -109,5 +109,6 @@ while (condition){
   
 
   console.log(chalk.italic.blueBright("\n*****THANK YOU*****"))
+ break;
+ }
 
-}
